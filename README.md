@@ -37,13 +37,13 @@ To run the notebooks, you need the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/zombie-outbreak-modelling.git
+   git clone https://github.com/beam-su/Modelling-Simulations.git
    ```
 
 2. Navigate to the directory:
 
    ```bash
-   cd zombie-outbreak-modelling
+   cd Modelling-Simulations
    ```
 
 3. Open the notebooks in Jupyter Notebook or JupyterLab:
